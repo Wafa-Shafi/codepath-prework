@@ -24,7 +24,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough (GIF)
 
-![](http://g.recordit.co/KHNa4C5Unz.gif)
+(http://g.recordit.co/KHNa4C5Unz.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
