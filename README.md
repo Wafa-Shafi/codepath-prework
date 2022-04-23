@@ -26,30 +26,6 @@ The following **required** functionality is complete:
 
 (http://g.recordit.co/KHNa4C5Unz.gif)
 
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I did not use any outside resources.]
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[A challenge that I encountered was when working on the functionality of the guessing part of the game. I tried to tackle
-this part of the game myself; however, I had trouble getting the functionality to work as expected. I used the
-hints and examples provided in the prework instructions to help walk me through the steps.]
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[I am curious to explore all the different libraries that are available to creating web projects
-and applications.]
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[I would add more features to enhance the look of this game. I would create some kind of a theme
-to make this game look even more professional and use sounds that match the theme accordingly. I 
-would also create a "how-to play" page for this game.]
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://www.kapwing.com/videos/6247d57d9993ac00ec02db64)
-
 
 ## License
 
